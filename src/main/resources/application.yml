@@ -1,0 +1,8 @@
+#server:
+#  port: 8081
+#  path: /hello
+#logging:
+#  file: spring.log
+##  pattern:
+##    file: %d{yyyy-MM-dd} === [%thread] === %-5level === %logger{50} ==== %msg%n
+  #空格不能省略，大小写敏感
